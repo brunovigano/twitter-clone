@@ -1,15 +1,3 @@
----
-layout: post
-title: "Criando uma aplicação estilo Twitter com Next.js."
-author: bruno
-categories: [Next.js, Twitter, TypeScript]
-tags: [Next.js, Twitter, TypeScript]
-image: assets/images/twitter-clone/twitter-blog.jpeg
-description: "Utilizando Next.js para criar uma interface semelhante ao twitter."
-featured: true
-hidden: true
----
-
 Faz algum tempo que tenho curiosidade a respeito do hype envolvendo o Next.js, o framework front-end "queridinho" atualmente. Por isso resolvi buscar conhecer um pouco mais a respeito e com a ajuda de alguns posts e blogs na internet resolvi criar uma aplicação básica, com a finalidade de estudo.
 
 Ao término, nossa aplicação deve contar com alguns recursos como:
